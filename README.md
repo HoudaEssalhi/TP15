@@ -1,0 +1,9 @@
+<img width="1919" height="1079" alt="Capture d&#39;écran 2025-11-07 230202" src="https://github.com/user-attachments/assets/0256f169-5ecd-41e2-9c5e-e33ffc61653b" />
+<img width="1919" height="1079" alt="Capture d&#39;écran 2025-11-07 232247" src="https://github.com/user-attachments/assets/0533d9d2-35e3-4a70-836a-eacbf2379cc8" />
+<img width="1919" height="693" alt="Capture d&#39;écran 2025-11-07 234428" src="https://github.com/user-attachments/assets/4ad842e7-3b66-4561-bc74-c6de63adf729" />
+<img width="1919" height="1030" alt="Capture d&#39;écran 2025-11-08 011820" src="https://github.com/user-attachments/assets/013bb7dc-fd5e-4221-8669-3a887ff4ae0f" />
+<img width="1919" height="1024" alt="Capture d&#39;écran 2025-11-08 013028" src="https://github.com/user-attachments/assets/d343a8e3-85ec-4e5e-b412-bc4cf774e486" />
+<img width="1919" height="1017" alt="Capture d&#39;écran 2025-11-08 013126" src="https://github.com/user-attachments/assets/cb807248-1586-42e5-9033-e9c7ade371c5" />
+<img width="1919" height="1079" alt="Capture d&#39;écran 2025-11-07 224147" src="https://github.com/user-attachments/assets/625c77b6-3c2f-4e55-833b-b796492f7258" />
+<img width="1919" height="1079" alt="Capture d&#39;écran 2025-11-07 224627" src="https://github.com/user-attachments/assets/768a0ada-5e3a-40b2-b1d1-e6287473a03f" />
+<img width="1919" height="1079" alt="Capture d&#39;écran 2025-11-07 224711" src="https://github.com/user-attachments/assets/d3290da9-b701-4529-ab45-22d2f0ef48d8" />
