@@ -1,0 +1,20 @@
+2025-11-08T01:27:46.000+01:00  INFO 6972 --- [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-08T01:27:46.272+01:00  INFO 6972 --- [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-11-08T01:29:59.374+01:00  INFO 28556 --- [restartedMain] com.example.TP15.Tp15Application         : Starting Tp15Application using Java 21.0.8 with PID 28556 (C:\Users\HP\OneDrive\Bureau\5IIR\Architecture\TP15\target\classes started by HP in C:\Users\HP\OneDrive\Bureau\5IIR\Architecture\TP15)
+2025-11-08T01:29:59.401+01:00 DEBUG 28556 --- [restartedMain] com.example.TP15.Tp15Application         : Running with Spring Boot v3.5.7, Spring v6.2.12
+2025-11-08T01:29:59.411+01:00  INFO 28556 --- [restartedMain] com.example.TP15.Tp15Application         : No active profile set, falling back to 1 default profile: "default"
+2025-11-08T01:30:00.223+01:00  INFO 28556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-08T01:30:00.246+01:00  INFO 28556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-08T01:30:21.818+01:00  INFO 28556 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-11-08T01:30:22.127+01:00  INFO 28556 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-08T01:30:22.137+01:00  INFO 28556 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.48]
+2025-11-08T01:30:23.373+01:00  INFO 28556 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-11-08T01:30:23.388+01:00  INFO 28556 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 23113 ms
+2025-11-08T01:30:30.741+01:00  WARN 28556 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2025-11-08T01:30:33.745+01:00  INFO 28556 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-11-08T01:30:33.992+01:00  INFO 28556 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-11-08T01:30:37.962+01:00  INFO 28556 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-11-08T01:30:38.429+01:00  INFO 28556 --- [restartedMain] com.example.TP15.Tp15Application         : Started Tp15Application in 45.549 seconds (process running for 50.685)
+2025-11-08T01:30:40.105+01:00  INFO 28556 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-08T01:30:40.115+01:00  INFO 28556 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-11-08T01:30:40.159+01:00  INFO 28556 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 34 ms
